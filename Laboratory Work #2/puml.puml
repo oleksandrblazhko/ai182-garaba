@@ -1,0 +1,22 @@
+@startuml
+
+title Components - Component Diagram
+
+ node "Unity" {
+  [Client]
+  }
+  
+  node "Server" {
+  [DataBase]
+  [Php app]
+  }
+  
+  [Client] --> [Php app] : request
+
+  [Php app] --> [Client] : respone
+
+  [DataBase] --> [Php app] : respone
+
+  [Php app] --> [DataBase] : request
+
+@enduml
