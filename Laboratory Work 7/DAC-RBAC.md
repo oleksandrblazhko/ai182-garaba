@@ -6,3 +6,18 @@
 
 #### Перевіряємо доступ користувача до таблиці та можливость керування (SELECT, DELETE, UPDATE, INSERT)
 ![image](https://user-images.githubusercontent.com/94397107/219870452-d06ab956-8f34-4d43-9dae-a47046749724.png)
+
+### Надаємо доступ
+![image](https://user-images.githubusercontent.com/94397107/219870664-e4c9f9c3-dbf1-4667-ab85-926182a2562a.png)
+
+#### Перевіряємо доступ користувача до таблиці та можливость керування (SELECT, DELETE, UPDATE, INSERT)
+![image](https://user-images.githubusercontent.com/94397107/219870651-70d22440-fb16-4d32-9613-fa8924915305.png)
+
+### Знімаємо доступ
+![image](https://user-images.githubusercontent.com/94397107/219870748-74f934b4-88a4-4046-bad3-f28d04c07beb.png)
+
+#### Перевіряємо доступ користувача до таблиці та можливость керування (SELECT, DELETE, UPDATE, INSERT)
+![image](https://user-images.githubusercontent.com/94397107/219870452-d06ab956-8f34-4d43-9dae-a47046749724.png)
+
+
+
