@@ -4,5 +4,5 @@
 ### Створимо таблицю і виведемо її
 ![image](https://user-images.githubusercontent.com/94397107/219870013-0f804679-7ef0-49ee-bd7f-9f16a2751fbb.png)
 
-### Перевіряємо доступ користувача до таблиці та можливості нею керувати (SELECT, DELETE, UPDATE, INSERT)
+#### Перевіряємо доступ користувача до таблиці та можливость керування (SELECT, DELETE, UPDATE, INSERT)
 ![image](https://user-images.githubusercontent.com/94397107/219870452-d06ab956-8f34-4d43-9dae-a47046749724.png)
