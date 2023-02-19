@@ -1,6 +1,7 @@
 ### Створіть у БД структури даних, необхідні для роботи повноважного керування доступом.
 ![image](https://user-images.githubusercontent.com/94397107/219956647-d7988c1b-d255-4292-9214-ce7f95a41d1d.png)
 
+### Створіть нову схему даних.
 ![image](https://user-images.githubusercontent.com/94397107/219956770-ca9cd4a1-c07f-4367-a6d7-f43666e74bf3.png)
 
 ![image](https://user-images.githubusercontent.com/94397107/219956829-5dc9a552-c442-4e01-a616-58612f04e4e6.png)
@@ -11,3 +12,7 @@
 
 ### Cтворюємо правила
 ![image](https://user-images.githubusercontent.com/94397107/219958539-73495818-9ced-43c3-b803-0c548d49e6f3.png)
+
+### Перевірка правил
+![image](https://user-images.githubusercontent.com/94397107/219958671-e17ec1d6-087a-4753-83b7-a693cf4d2323.png)
+
